@@ -9,7 +9,7 @@ with open('requirements.txt') as fr:
 
 setuptools.setup(
     name="digit_file_mgmt",
-    version="0.1.0",
+    version="0.1.2",
     author="Håkan Persson",
     author_email="hakan.persson@haninge.se",
     description="gRPC proto package for Digi:T file management services",
